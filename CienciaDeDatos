@@ -60,10 +60,7 @@ planificación y el monitoreo del proyecto.
 
 Pero el participante más importante en este proceso es el científico de datos.
 
-
-
-
-
-Monitorear los modelos: Desafortunadamente, la implementación del modelo no es el paso final. Los modelos siempre deben monitorearse después de la implementación 
+Monitorear los modelos: 
+Desafortunadamente, la implementación del modelo no es el paso final. Los modelos siempre deben monitorearse después de la implementación 
 para garantizar que funcionen correctamente. Con el paso del tiempo, los datos con los que se entrenó el modelo pueden quedar obsoletos para las predicciones futuras. 
 En la detección de fraudes, por ejemplo, los delincuentes siempre encuentran nuevas formas de piratear las cuentas.
