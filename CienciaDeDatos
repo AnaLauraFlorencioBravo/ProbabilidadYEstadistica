@@ -1,1 +1,69 @@
+*Ciencia de datos*
 
+La ciencia de datos combina múltiples campos que incluyen estadísticas, métodos científicos y análisis de datos para extraer el valor de los datos.
+
+Los practicantes de la ciencia de datos se llaman científicos de datos y combinan una variedad de conocimientos para analizar los datos recopilados de la web, 
+de teléfonos inteligentes, de clientes, sensores y otras fuentes.
+
+La ciencia de datos revela tendencias y genera información que las empresas pueden utilizar para tomar mejores decisiones y crear productos y servicios más innovadores. 
+Quizás lo más importante es que permite que los modelos de aprendizaje automático (ML) aprendan de las grandes cantidades de datos que se les suministran en vez de 
+depender principalmente de los analistas de negocios para ver qué pueden descubrir a partir de los datos.
+
+Los datos son la base de la innovación, pero su valor proviene de la información que los científicos pueden extraer y luego utilizar a partir de estos.
+
+*Cómo se lleva a cabo la ciencia de datos*
+
+El proceso de analizar y utilizar los datos es iterativo más que lineal, pero este es el flujo normal del ciclo de vida de la ciencia de datos para un proyecto de 
+modelado de datos:
+
+Planificación: Definir un proyecto y sus posibles resultados.
+
+Construir un modelo de datos: Los científicos de datos frecuentemente usan una variedad de bibliotecas de código abierto o herramientas en la base de datos para 
+construir modelos de aprendizaje automático. A menudo, los usuarios necesitan API para que los ayuden con la ingestión de datos, la visualización y creación de 
+perfiles de datos o la ingeniería de funciones. Necesitan las herramientas adecuadas, así como acceso a los datos correctos y otros recursos como la capacidad de proceso.
+
+Evaluar un modelo: Los científicos de datos deben lograr un alto porcentaje de exactitud en sus modelos antes de poder implementarlos con confianza. 
+La evaluación del modelo habitualmente genera un conjunto completo de métricas de evaluación y visualizaciones para medir el rendimiento del modelo frente a los datos 
+nuevos y también para clasificarlos a lo largo del tiempo a fin de permitir un comportamiento óptimo en la producción. La evaluación del modelo va más allá del rendimiento 
+en bruto para tener en cuenta el comportamiento de referencia esperado.
+
+Explicar los modelos: Poder explicar la mecánica interna de los resultados de los modelos de aprendizaje automático en términos humanos no ha sido posible siempre, 
+pero es cada vez más importante. Los científicos de datos desean recibir explicaciones automatizadas de la ponderación relativa y la importancia de los factores que 
+intervienen en la generación de una predicción, junto con detalles explicativos específicos del modelo sobre las predicciones del modelo.
+
+Implementar un modelo: Tomar un modelo de aprendizaje automático entrenado e implementarlo en los sistemas correctos es frecuentemente un proceso difícil y laborioso. 
+Esto se puede simplificar operacionalizando los modelos como API escalables y seguras, o usando modelos de aprendizaje automático dentro de la base de datos.
+
+*Herramientas para la ciencia de datos*
+
+Crear, evaluar, implementar y monitorear modelos de aprendizaje automático puede ser un proceso complejo. 
+Es por eso que la cantidad de herramientas de ciencia de datos ha aumentado. Los científicos de datos utilizan muchos tipos de herramientas, pero una de las más 
+comunes son los cuadernos de código abierto, que son aplicaciones web para escribir y ejecutar código, visualizar datos y ver resultados, todo dentro de un mismo entorno.
+
+*¿Quién supervisa el proceso de ciencia de datos?*
+
+En la mayoría de las organizaciones, los proyectos de ciencia de datos suelen estar supervisados por tres tipos de administradores:
+
+Directores comerciales: 
+Estos directores trabajan con el equipo de ciencia de datos para definir el problema y desarrollar una estrategia para el análisis. 
+Pueden ser los jefes de una línea de negocios como Marketing, Finanzas o Ventas y contar con un equipo de ciencia de datos directamente subordinado.
+Trabajan codo a codo con los directores de Ciencia de Datos y Tecnología Informática para garantizar que se concreten los proyectos.
+
+Directores de Tecnología Informática:
+Los directores sénior de Tecnología Informática son responsables de la infraestructura y de la arquitectura que asistirá las operaciones de ciencia de datos. 
+Supervisan continuamente las operaciones y el uso de los recursos para garantizar que los equipos de ciencia de datos operen en forma eficiente y segura. 
+También pueden ser responsables de la creación y actualización de los entornos de TI para los equipos de ciencia de datos.
+
+Directores de ciencia de datos: 
+Estos gerentes supervisan el equipo de ciencia de datos y su trabajo diario. Son creadores de equipos que pueden equilibrar el desarrollo del equipo con la 
+planificación y el monitoreo del proyecto.
+
+Pero el participante más importante en este proceso es el científico de datos.
+
+
+
+
+
+Monitorear los modelos: Desafortunadamente, la implementación del modelo no es el paso final. Los modelos siempre deben monitorearse después de la implementación 
+para garantizar que funcionen correctamente. Con el paso del tiempo, los datos con los que se entrenó el modelo pueden quedar obsoletos para las predicciones futuras. 
+En la detección de fraudes, por ejemplo, los delincuentes siempre encuentran nuevas formas de piratear las cuentas.
